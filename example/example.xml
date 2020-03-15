@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<students year="2019-2020"> 
-  <student enrolmentDate="2017"> 
-    <name>John Smith</name>  
+<teachers> 
+  <teacher joiningDate="2018" jobRole="Professor"> 
+    <name>Alexandra Cristea</name>  
     <course> 
       <name>Software, Systems and Applications III</name>  
-      <submodule>Advanced Databases</submodule>  
-      <submodule>Web Technology</submodule> 
+      <submodule> 
+        <name>Advanced Databases</name>  
+        <year>2018-2019</year>  
+        <year>2019-2020</year> 
+      </submodule> 
     </course>  
-    <course>Computing Methodologies III</course> 
-  </student>  
-  <student enrolmentDate="2016"> 
-    <firstname>Anna</firstname>  
-    <lastname>Brown</lastname>  
     <course> 
       <name>Software, Systems and Applications IV</name>  
-      <submodule>Semantic Web</submodule> 
-    </course>  
-    <course>Computing Methodologies IV</course> 
-  </student> 
-</students>
+      <submodule> 
+        <name>Semantic Web</name>  
+        <year>2018-2019</year>  
+        <year>2019-2020</year> 
+      </submodule> 
+    </course> 
+  </teacher> 
+</teachers>
