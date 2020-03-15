@@ -1,2 +1,20 @@
 <?xml version="1.0"?>
-<students></students>
+<students>
+<student enrolmentDate = "2017">
+		<name>John Smith</name>
+		<course>
+			<name>Software, Systems and Applications III</name>
+			<submodule>Advanced Databases</submodule>
+		</course>
+		<course>Computing Methodologies III</course>
+	</student>
+	<student enrolmentDate = "2016">
+		<firstname>Anna</firstname>
+		<lastname>Brown</lastname>
+		<course>
+			<name>Software, Systems and Applications IV</name>
+			<submodule>Semantic Web</submodule>
+		</course>
+		<course>Computing Methodologies IV</course>
+	</student>
+</students>
