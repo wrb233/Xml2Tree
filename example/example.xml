@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <students>
 <student enrolmentDate = "2017">
-		<name>John Smith</name>
-		<course>
-			<submodule>Advanced Databases</submodule>
-		</course>
-		<course>Computing Methodologies III</course>
+		
 	</student>
 	
 </students>
